@@ -1,0 +1,67 @@
+*
+{
+    box-sizing:border-box;
+    font-weight:bold;
+}
+.head
+{
+    background-color:#2fb9f0;
+    color:#fff;
+}
+
+.head span
+{
+    display: inline-block;
+    border:0.1px solid #eee;
+    padding:10px 16px;
+    width:45%;
+}
+
+.head span:first-child
+{
+    width:53%;
+}
+
+.head span:nth-of-type(2)
+{
+    width:32%;
+}
+
+.head span:last-child
+{
+    width:15%;
+}
+
+.add
+{
+    width:100%;
+}
+
+.add input:first-child
+{
+    width:53%;
+    background-color:#ddd;
+    outline:none;
+}
+
+.add input:nth-of-type(2)
+{
+    width:32%;
+    background-color:#ddd;
+    outline:none;
+}
+
+.add button
+{
+    width:15%;
+    background-color:#2fb9f0;
+    color:#fff;
+    cursor: pointer;
+    outline:none;
+}
+
+.add input, button
+{
+    padding:10px 16px;
+    border:0.1px solid #eee;
+}
