@@ -19,9 +19,9 @@ function TodoList() {
    
 
     return (
-       <div style={{width:"600px", margin:"140px auto",textAlign:"center"}}>
+       <div style={{width:"600px", margin:"170px auto 15px",textAlign:"center"}}>
 
-           <h1 style={{color:"#fff"}}>Todo List Using React Js</h1>
+           <h1 style={{color:"#fff",marginBottom:"27px"}}>Todo List Using React Js</h1>
 
            <div className="head">
                <span>Name</span>
