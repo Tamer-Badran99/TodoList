@@ -21,7 +21,7 @@ function TodoList() {
     return (
        <div style={{width:"600px", margin:"140px auto",textAlign:"center"}}>
 
-           <h1 style={{color:"#fff"}}>Todo List</h1>
+           <h1 style={{color:"#fff"}}>Todo List Using React Js</h1>
 
            <div className="head">
                <span>Name</span>
